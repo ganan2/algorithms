@@ -1,4 +1,4 @@
-package com.lengthOfLongestSubstring;
+package com.java.lengthOfLongestSubstring;
 
 public class Solution {
 
